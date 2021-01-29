@@ -192,14 +192,14 @@ a:hover, .website:hover {
 @media only screen and (max-width: 600px) {
 
     .flip-container, .front, .back {
-        height: 250px;
-        width: 400px;
+        height: 200px;
+        width: 300px;
     }
 
     .centered {
         position: fixed;
         top: 50%;
-        left: 37%;
+        left: 30%;
         transform: translate(-50%, -50%);
     }
     
@@ -223,8 +223,8 @@ a:hover, .website:hover {
     
     h3 {
         position: absolute;
-        top: 70%;
-        left: 50%;
+        top: 85%;
+        left: 68%;
         transform: translate(-50%, -50%);
         /* text-align: center;
         left: 45%;
@@ -242,7 +242,7 @@ a:hover, .website:hover {
         text-align: center;
         color: white; */
         align-items: center; 
-        margin-left: -17%; 
+        margin-left: -50%; 
         
        
         background-color: #fff; 
@@ -339,4 +339,3 @@ a:hover, .website:hover {
         color: #fff;
     }
 }
-   
