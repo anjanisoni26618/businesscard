@@ -218,7 +218,7 @@ a:hover, .website:hover {
     
     .front {
         align-items: center; 
-        margin-left: 17%; 
+        margin-left: 15%; 
     }
     
     h3 {
@@ -242,7 +242,7 @@ a:hover, .website:hover {
         text-align: center;
         color: white; */
         align-items: center; 
-        margin-left: -50%; 
+        margin-left: -40%; 
         
        
         background-color: #fff; 
@@ -253,7 +253,7 @@ a:hover, .website:hover {
         /* top: 50%;
         left: 37%; */
         align-items: center; 
-        margin-left: -2%; 
+        margin-left: -10%; 
         height: 120px;
         width: 230px;
         background-image: url("images\smllbgback.png");
