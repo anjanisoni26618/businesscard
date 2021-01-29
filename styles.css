@@ -204,8 +204,8 @@ a:hover, .website:hover {
     }
     
     .center{
-        height: 250px;
-        width: 400px;
+        height: 200px;
+        width: 300px;
         background-image: url("images\front.png");
         /* width: 250px;*/
         /* height: 250px; 
@@ -236,8 +236,8 @@ a:hover, .website:hover {
     }
     
     .back{
-        height: 250px;
-        width: 400px;
+        height: 200px;
+        width: 300px;
         /* position: relative;
         text-align: center;
         color: white; */
