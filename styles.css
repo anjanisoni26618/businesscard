@@ -193,7 +193,7 @@ a:hover, .website:hover {
 
     .flip-container, .front, .back {
         height: 120px;
-        width: 200px;
+        width: 230px;
     }
 
     .centered {
@@ -205,7 +205,7 @@ a:hover, .website:hover {
     
     .center{
         height: 120px;
-        width: 200px;
+        width: 230px;
         background-image: url("images\front.png");
         /* width: 250px;*/
         /* height: 250px; 
@@ -237,7 +237,7 @@ a:hover, .website:hover {
     
     .back{
         height: 120px;
-        width: 200px;
+        width: 230px;
         /* position: relative;
         text-align: center;
         color: white; */
@@ -254,8 +254,8 @@ a:hover, .website:hover {
         left: 37%; */
         align-items: center; 
         margin-left: -2%; 
-        height: 250px;
-        width: 400px;
+        height: 120px;
+        width: 230px;
         background-image: url("images\smllbgback.png");
         /* padding-top: 5%; */
         /* display: block;  */
