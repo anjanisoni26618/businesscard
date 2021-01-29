@@ -192,8 +192,8 @@ a:hover, .website:hover {
 @media only screen and (max-width: 600px) {
 
     .flip-container, .front, .back {
-        height: 200px;
-        width: 300px;
+        height: 120px;
+        width: 200px;
     }
 
     .centered {
@@ -204,8 +204,8 @@ a:hover, .website:hover {
     }
     
     .center{
-        height: 200px;
-        width: 300px;
+        height: 120px;
+        width: 200px;
         background-image: url("images\front.png");
         /* width: 250px;*/
         /* height: 250px; 
@@ -236,8 +236,8 @@ a:hover, .website:hover {
     }
     
     .back{
-        height: 200px;
-        width: 300px;
+        height: 120px;
+        width: 200px;
         /* position: relative;
         text-align: center;
         color: white; */
